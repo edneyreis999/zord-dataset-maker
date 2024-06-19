@@ -1,0 +1,57 @@
+"Aqui estão as cenas do capítulo em ordem cronológica:
+
+**Cena 1**
+{
+\"name\": \"Entrada no saguão\",
+\"description\": \"Ghork vê os candidatos enfileirados em frente aos soldados de elite, responsáveis pelos seus times.\",
+\"start\": \"Ao entrar no saguão, Ghork vê os candidatos enfileirados em frente aos soldados de elite, responsáveis pelos seus times.\",
+\"end\": \"A cerimônia já está acontecendo e Ghork assiste ao último candidato do segundo time subir as escadas e jogar sua alga-do-norte na sopa, após receber um resultado positivo.\"
+}
+
+**Cena 2**
+{
+\"name\": \"Recepção na Horda\",
+\"description\": \"A recepção na Horda começa calorosa, e Drull logo vai atrás de seu amigo.\",
+\"start\": \"A recepção na Horda começa calorosa, e Drull logo vai atrás de seu amigo.\",
+\"end\": \"— Bem a tempo! Time do Orcquius! — chama Yavo. — Aqui está, senhor, o pergaminho para oficializar as aprovações do seu batalhão — finaliza ele, entregando o documento ao Orcquius.\"
+}
+
+**Cena 3**
+{
+\"name\": \"Orcquius toma a frente\",
+\"description\": \"Orcquius toma a frente e começa a falar sobre a missão.\",
+\"start\": \"— Antes de começar, saibam que a missão de hoje foi apenas um exemplo do que enfrentamos na Horda Consagrada. Só os melhores serão escolhidos.\",
+\"end\": \"Orcquius abre o pergaminho e começa a falar:\"
+}
+
+**Cena 4**
+{
+\"name\": \"Qeg é desclassificado\",
+\"description\": \"Orcquius anuncia que Qeg está desclassificado.\",
+\"start\": \"— Avante, Qeg. — Sim, senhor — responde o recruta.\",
+\"end\": \"Orcquius anota o resultado de Qeg no pergaminho.\"
+}
+
+**Cena 5**
+{
+\"name\": \"Eraste é aprovado\",
+\"description\": \"Eraste é aprovado por Orcquius.\",
+\"start\": \"— Nunca deixar um companheiro pra trás — o orc diz, com displicência.\",
+\"end\": \"Eraste não consegue esconder a alegria no rosto. A voz do Orcquius continua ecoando na sua cabeça.\"
+}
+
+**Cena 6**
+{
+\"name\": \"Ghork é chamado\",
+\"description\": \"Ghork é chamado por Orcquius.\",
+\"start\": \"— Ghork, um passo à frente — chama Orcquius.\",
+\"end\": \"O coração de Ghork bate forte, sentindo os olhares desprezíveis da plateia se transformarem em admiração a cada palavra dita pelo general.\"
+}
+
+**Cena 7**
+{
+\"name\": \"Ghork é desclassificado\",
+\"description\": \"Ghork é desclassificado por Orcquius.\",
+\"start\": \"— Infelizmente, meu jovem, aprová-lo seria o mesmo que o sentenciar à morte. — diz Orcquius, com um tom grave.\",
+\"end\": \"Leva um momento para que Ghork processe o que foi dito, as palavras soando estrangeiras.\"
+}"

@@ -1,0 +1,40 @@
+"Aqui está o array de objetos JSON que dividem o capítulo em cenas:
+
+[
+  {
+    \"name\": \"Ghork chega ao bar\",
+    \"description\": \"Ghork surge no bar movimentado e se junta aos amigos.\",
+    \"start\": \"É nessa hora que Ghork surge no bar movimentado.\",
+    \"end\": \"— E aí, galera! — exclama, espremendo-se para se sentar em uma das cadeiras ao lado dos outros.\"
+  },
+  {
+    \"name\": \"Conversa sobre a Prova de Fogo\",
+    \"description\": \"Os amigos conversam sobre a Prova de Fogo e as perguntas difíceis.\",
+    \"start\": \"— E aí, galera! — exclama, espremendo-se para se sentar em uma das cadeiras ao lado dos outros.\",
+    \"end\": \"— Uau… — murmura Lala, com ironia.\"
+  },
+  {
+    \"name\": \"Lala revela seu plano\",
+    \"description\": \"Lala conta como conseguiu escapar do Complexo da Horda e ajuda os amigos a entenderem o que aconteceu.\",
+    \"start\": \"— Não acredito que vocês fizeram isso! E como conseguiram escapar? — Ghork continua, ainda espantado.\",
+    \"end\": \"— Ai, que deselegante. Supera, Dam! — Lala ignora o amigo.\"
+  },
+  {
+    \"name\": \"Conversa sobre a próxima etapa\",
+    \"description\": \"Os amigos discutem sobre a próxima etapa da Prova de Fogo e como vão proceder.\",
+    \"start\": \"— E aí, qual é a próxima etapa da prova agora?\",
+    \"end\": \"Dam franze a testa como se estivesse tentando decifrar uma equação matemática complexa e pergunta:\"
+  },
+  {
+    \"name\": \"Pagar a conta\",
+    \"description\": \"Os amigos pagam a conta do almoço e saem do estabelecimento.\",
+    \"start\": \"Todos acabam de comer e se levantam da mesa, prontos para pagar a conta.\",
+    \"end\": \"— Ah, que bom. Voltem sempre! — O servente diz, com um sorriso impertinente.\"
+  },
+  {
+    \"name\": \"Saída do estabelecimento\",
+    \"description\": \"Os amigos saem do estabelecimento e vão para o Complexo da Horda.\",
+    \"start\": \"— Ah, que bom. Voltem sempre! — O servente diz, com um sorriso impertinente.\",
+    \"end\": \"Os amigos agradecem e saem do estabelecimento com pressa, ansiosos para chegarem ao Complexo da Horda e conferir os resultados da Prova de Fogo.\"
+  }
+]"

@@ -1,0 +1,40 @@
+"Aqui estão as cenas do capítulo divididas em objetos JSON:
+
+[
+  {
+    \"name\": \"Ghork se aproxima da Taverna do Copo Sujo\",
+    \"description\": \"Ghork caminha lentamente em direção à Taverna do Copo Sujo, refletindo sobre sua vida e seus planos.\",
+    \"start\": \"Com um embornal jogado sobre o ombro, Ghork se aproxima lentamente da Taverna do Copo Sujo.\",
+    \"end\": \"Ao se aproximar da Taverna do Copo Sujo, a conversa de três orcs o traz de volta para o presente.\"
+  },
+  {
+    \"name\": \"Conversa com os orcs\",
+    \"description\": \"Ghork ouve a conversa dos três orcs conhecidos do orfanato e pensa em como vai ter alguns amigos em Terminus.\",
+    \"start\": \"Ao se aproximar da Taverna do Copo Sujo, a conversa de três orcs o traz de volta para o presente.\",
+    \"end\": \"De repente, o seu foco muda, puxado pela visão de uma figura inconfundível.\"
+  },
+  {
+    \"name\": \"Encontro com Dam\",
+    \"description\": \"Ghork encontra Dam em frente à Taverna do Copo Sujo e eles conversam sobre seus planos.\",
+    \"start\": \"De repente, o seu foco muda, puxado pela visão de uma figura inconfundível.\",
+    \"end\": \"— Eu não sou fraco, Dam. Olha esses braços! — Ghork responde, encolhendo os ombros.\"
+  },
+  {
+    \"name\": \"Despedida de Dam\",
+    \"description\": \"Dam tenta dissuadir Ghork de ir para Terminus e lhe oferece um presente.\",
+    \"start\": \"— Bom... Se você quer mesmo morrer, sua carona tá chegando.\",
+    \"end\": \"Os olhos de Ghork se enchem d’água. Ele reprime as lágrimas, querendo que a última imagem dele para o amigo seja feliz.\"
+  },
+  {
+    \"name\": \"Chegada da carroça\",
+    \"description\": \"A carroça chega à Taverna do Copo Sujo e Ghork se prepara para partir.\",
+    \"start\": \"— Bom... Se você quer mesmo morrer, sua carona tá chegando.\",
+    \"end\": \"Enquanto os três orcs do orfanato se trombam, competindo para subir na carroça...\"
+  },
+  {
+    \"name\": \"Aparecimento de Lala\",
+    \"description\": \"Lala aparece correndo rua abaixo e interrompe a partida de Ghork.\",
+    \"start\": \"Reconhecendo a voz, Ghork se volta para a direção de onde ela vem.\",
+    \"end\": \"— Lala? — Ghork questiona, espremendo os olhos para identificar a amiga.\"
+  }
+]"

@@ -1,0 +1,57 @@
+"Aqui está a divisão do capítulo em cenas:
+
+**Cena 1**
+{
+\"name\": \"Os três cortam caminho\",
+\"description\": \"Dam, Ghork e Lala se sentam para comer\",
+\"start\": \"Sem hesitação, os três cortam caminho entre as mesas.\",
+\"end\": \"Embora ele se pareça com qualquer outro ogro, sua pele carmesim é marcada por cicatrizes que se concentram em seus braços.\"
+}
+
+**Cena 2**
+{
+\"name\": \"Conversa sobre Eraste\",
+\"description\": \"Ghork começa a falar sobre Eraste, mas é interrompido por Lala\",
+\"start\": \"— Você não lembra do Eraste? Ele estudou as estrelas na mesma classe que a gen... —\",
+\"end\": \"— É um imbecil, isso que ele é! — Ela bate a bandeja com tanta força na mesa que faz todo mundo pular de susto.\"
+}
+
+**Cena 3**
+{
+\"name\": \"Discussão sobre Drull\",
+\"description\": \"Dam e Ghork discutem sobre Drull e sua capacidade de lutar\",
+\"start\": \"— Drull luta! — Drull fala, com a boca cheia de comida.\",
+\"end\": \"— Relaxa, ele só tá bravinho porque eu dei pra ele uma pena “mágica” que não funciona. — diz Ghork, tentando tranquilizar os amigos.\"
+}
+
+**Cena 4**
+{
+\"name\": \"Lala reclama\",
+\"description\": \"Lala continua reclamando sobre Eraste e sua ameaça a Ghork\",
+\"start\": \"— E o que mais eu poderia fazer, Lala? Eu sou um orc, não tenho escolha, não existe outra carreira pra nós.\",
+\"end\": \"— Apenas... Tente voltar inteiro. — Dam volta a prestar atenção em seu livro.\"
+}
+
+**Cena 5**
+{
+\"name\": \"Prova de Fogo\",
+\"description\": \"Ghork explica sobre a Prova de Fogo e seus desafios\",
+\"start\": \"— E como será a Prova de Fogo? Eles ao menos deram alguma dica sobre o que vocês vão fazer?\",
+\"end\": \"— Teoria e prática. Uma prova escrita sobre conhecimentos gerais para guerreiros e um teste físico.\"
+}
+
+**Cena 6**
+{
+\"name\": \"Drull não estuda\",
+\"description\": \"Lala pergunta se Drull estudou para a prova escrita, e ele responde que não precisa\",
+\"start\": \"— E quanto a você, Drull? — Lala aponta para ele. — Teve tempo pra estudar pra esse tal teste escrito?\",
+\"end\": \"— Drull não escreve. Drull briga! — Ele cerra os dentes e flexiona os músculos para mostrar que se garante.\"
+}
+
+**Cena 7**
+{
+\"name\": \"Despedida\",
+\"description\": \"Ghork, Lala e Dam se despedem antes de irem para aula\",
+\"start\": \"— Vamos, Drull. O sinal já vai tocar e temos que voltar pra aula.\",
+\"end\": \"Eles saem caminhando.\"
+}"

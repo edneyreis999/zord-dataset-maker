@@ -1,0 +1,58 @@
+"Aqui estão as cenas do capítulo divididas em objetos JSON:
+
+[
+  {
+    \"name\": \"Chegada ao Bar do Barbado\",
+    \"description\": \"Drull, Lala e Dam chegam ao Bar do Barbado e procuram por uma mesa livre.\",
+    \"start\": \"— Muuuito fácil! Drull inteligente!\",
+    \"end\": \"Ao lado da porta, um quadro informa:\"
+  },
+  {
+    \"name\": \"Encontrando uma mesa\",
+    \"description\": \"Drull encontra uma mesa no fundo do bar e os amigos se sentam.\",
+    \"start\": \"Drull, usando sua altura como vantagem, aponta para uma mesa no fundo do bar, recém-liberada:\",
+    \"end\": \"— Perfeita! — exclama Dam, animado.\"
+  },
+  {
+    \"name\": \"Lala se queixa da mesa\",
+    \"description\": \"Lala se queixa da mesa suja e começa a recolher os pratos e canecas.\",
+    \"start\": \"Ao chegar em frente à mesa, Lala franze o nariz com nojo e protesta:\",
+    \"end\": \"Nada podia ser feito quanto à camada de gordura na madeira, então ela só evita apoiar os braços ali.\"
+  },
+  {
+    \"name\": \"Pedidos\",
+    \"description\": \"Os amigos fazem seus pedidos ao servente ogro.\",
+    \"start\": \"Um servente ogro chega para anotar os pedidos.\",
+    \"end\": \"— Mula-tatu ou nada.\"
+  },
+  {
+    \"name\": \"Lala pergunta sobre a carne\",
+    \"description\": \"Lala pergunta ao servente ogro sobre as opções de carne.\",
+    \"start\": \"— Qual é a carne mais macia que vocês servem? — pergunta, tentando não presumir que todas as opções sejam ruins.\",
+    \"end\": \"— Mula-tatu ou nada.\"
+  },
+  {
+    \"name\": \"Dam se preocupa com Ghork\",
+    \"description\": \"Dam se preocupa com o amigo Ghork e a prova de fogo.\",
+    \"start\": \"— E a prova? — Dam pergunta.\",
+    \"end\": \"Ansioso, sacode o pé contra o cavalete, incapaz de parar.\"
+  },
+  {
+    \"name\": \"Brincadeira\",
+    \"description\": \"Drull e Dam começam a brincar, balançando a mesa.\",
+    \"start\": \"Drull se alegra com a brincadeira e decide se juntar, balançando o tampo da mesa com as mãos espalmadas.\",
+    \"end\": \"— Por que eu ainda insisto em sair em público com vocês? — Lala esconde o rosto com vergonha.\"
+  },
+  {
+    \"name\": \"Servente retorna\",
+    \"description\": \"O servente ogro retorna com as travessas e Lala recebe uma cumbuca de sopa.\",
+    \"start\": \"O servente ogro retorna, carregando uma bandeja com as travessas.\",
+    \"end\": \"— Tá, agora deu! Senão vão derrubar minha sopa.\"
+  },
+  {
+    \"name\": \"Lala descobre a carne\",
+    \"description\": \"Lala descobre que a carne na sua sopa é igual à dos amigos e se sente enganada.\",
+    \"start\": \"Ela compara a carne do prato dos amigos e a carne suspeita à sua frente, um pouco parecida demais com a que os outros dois estão comendo.\",
+    \"end\": \"— Quer saber... Podem derrubar.\"
+  }
+]"

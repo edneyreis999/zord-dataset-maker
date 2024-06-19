@@ -1,0 +1,33 @@
+"Aqui está a divisão do capítulo em cenas:
+
+**Cena 1**
+{
+\"name\": \"Ghork volta para casa\",
+\"description\": \"Ghork retorna para casa após uma semana difícil\",
+\"start\": \"Quando eu tava voltando da briga com o pai, eu cruzei com ele na praça e ele me mostrou que ficar no Um Só Coração seria uma boa opção naquele momento.\",
+\"end\": \"Ele sabia que a mãe perguntaria a qualquer momento, mas nenhum tempo do mundo seria suficiente para se preparar para essa conversa.\"
+}
+
+**Cena 2**
+{
+\"name\": \"Conversa com Shad\",
+\"description\": \"Ghork conta à sua mãe sobre sua estadia no Um Só Coração e suas experiências ruins em busca de emprego\",
+\"start\": \"— Bem... Você se lembra do meu amigo Dam?\",
+\"end\": \"Shad se levanta abruptamente, bufa e bate com as duas mãos na mesa.\"
+}
+
+**Cena 3**
+{
+\"name\": \"Reação de Shad\",
+\"description\": \"Shad reage à história de Ghork com raiva e apoio\",
+\"start\": \"Eles não têm o direito de falar assim com você, Ghork!\",
+\"end\": \"Você é um bom menino, e garanto que é muito mais esperto que todos eles. Não deixe que esse povo defina quem você é!\"
+}
+
+**Cena 4**
+{
+\"name\": \"Apoio de Shad\",
+\"description\": \"Shad demonstra apoio e confiança em Ghork\",
+\"start\": \"— Você acredita em mim, mãe?\",
+\"end\": \"Shad sorri. Um sorriso que carrega o peso de inúmeras batalhas.\"
+}"

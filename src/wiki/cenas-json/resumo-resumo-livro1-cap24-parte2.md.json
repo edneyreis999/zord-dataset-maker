@@ -1,0 +1,46 @@
+"Aqui está a divisão do capítulo em cenas, com os campos solicitados:
+
+[
+  {
+    \"name\": \"Grukag se levanta\",
+    \"description\": \"Grukag se levanta e começa a conversa com Ghork\",
+    \"start\": \"Grukag se levanta devagar.\",
+    \"end\": \"— Eu não vim aqui dar desculpas, vim comunicar que fui reprovado — disse Ghork, com firmeza.\"
+  },
+  {
+    \"name\": \"Conversa tensa\",
+    \"description\": \"Grukag e Ghork têm uma conversa tensa sobre o passado\",
+    \"start\": \"— Eu não Vim aqui dar desculpas, vim comunicar que fui reprovado — disse Ghork, com firmeza.\",
+    \"end\": \"Pela primeira vez Ghork se sentiu controlado pela fúria.\"
+  },
+  {
+    \"name\": \"Ghork ataca\",
+    \"description\": \"Ghork ataca Grukag com punhos e palavras duras\",
+    \"start\": \"Pela primeira vez Ghork se sentiu controlado pela fúria.\",
+    \"end\": \"— O que eu tinha para fazer, eu já fiz, pirralho ingrato! Meu erro foi acreditar que uma aberração como você traria orgulho pra mim.\"
+  },
+  {
+    \"name\": \"Luta intensa\",
+    \"description\": \"Grukag e Ghork têm uma luta intensa na taverna\",
+    \"start\": \"— O que eu tinha para fazer, eu já fiz, pirralho ingrato! Meu erro foi acreditar que uma aberração como você traria orgulho pra mim.\",
+    \"end\": \"Ele sabe que não tem chance de vencer, mas ele não quer se render.\"
+  },
+  {
+    \"name\": \"Ghork tenta escapar\",
+    \"description\": \"Ghork tenta escapar da taverna e da fúria do pai\",
+    \"start\": \"Ele sabe que não tem chance de vencer, mas ele não quer se render.\",
+    \"end\": \"Mas ele não consegue chegar à saída.\"
+  },
+  {
+    \"name\": \"Grukag domina\",
+    \"description\": \"Grukag domina Ghork e o ergue no ar\",
+    \"start\": \"Mas ele não consegue chegar à saída.\",
+    \"end\": \"Ele olha nos olhos do pai, que estão vermelhos e vazios.\"
+  },
+  {
+    \"name\": \"Desfecho trágico\",
+    \"description\": \"Grukag quase mata Ghork, mas este encontra uma paz interior\",
+    \"start\": \"Ele olha nos olhos do pai, que estão vermelhos e vazios.\",
+    \"end\": \"Ele não sente mais nada.\"
+  }
+]"

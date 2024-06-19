@@ -1,0 +1,41 @@
+"Aqui está a divisão do capítulo em cenas:
+
+**Cena 1**
+{
+\"name\": \"Drull chega em casa\",
+\"description\": \"Drull para em frente à casa, se despede dos amigos e entra em casa.\",
+\"start\": \"Drull para em frente a uma das últimas casas de tijolos trabalhados da região, despede-se dos amigos e passa pelos portões de ferro.\",
+\"end\": \"No momento em que entra em casa, Drull decide ir diretamente para o quintal dos fundos...\"
+}
+
+**Cena 2**
+{
+\"name\": \"Drull no quintal\",
+\"description\": \"Drull observa o céu com mais clareza e conversa com seus irmãos.\",
+\"start\": \"No momento em que entra em casa, Drull decide ir diretamente para o quintal dos fundos...\",
+\"end\": \"Enquanto pensa sobre o futuro, seus olhos começam a pesar, e ele adormece ao som dos gritos e gargalhadas dos seus irmãos lutando.\"
+}
+
+**Cena 3**
+{
+\"name\": \"Drull acorda e vê o pai\",
+\"description\": \"Drull acorda no quintal e vê seu pai, Glavius Quebracranio.\",
+\"start\": \"O Sol já ilumina quase toda a casa quando Drull percebe que dormiu no quintal.\",
+\"end\": \"— GruUuU! – Drull comemora ao ver o pai em casa.\"
+}
+
+**Cena 4**
+{
+\"name\": \"Drull e Glavius\",
+\"description\": \"Drull conversa com seu pai, Glavius, e recebe um presente.\",
+\"start\": \"— GruUuU! – Drull comemora ao ver o pai em casa.\",
+\"end\": \"Nesse momento, Ulag entra na sala e diz com entusiasmo:\"
+}
+
+**Cena 5**
+{
+\"name\": \"Conversa sobre a Horda\",
+\"description\": \"A família conversa sobre a Horda e a Prova de Fogo.\",
+\"start\": \"Nesse momento, Ulag entra na sala e diz com entusiasmo:\",
+\"end\": \"— BASTA ! Como ousam difamar a Horda assim?!\"
+}"

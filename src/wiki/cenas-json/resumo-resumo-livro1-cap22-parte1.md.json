@@ -1,0 +1,57 @@
+"Aqui está a divisão do capítulo em cenas:
+
+**Cena 1**
+{
+\"name\": \"Chegada ao Mercado Central\",
+\"description\": \"Peren e Adran se despedem dos demais e seguem rumo à Cidade Alta.\",
+\"start\": \"Ao chegar à entrada que leva ao mercado central, Peren e Adran se despedem dos demais e seguem tagarelando rumo à Cidade Alta.\",
+\"end\": \"Logo à frente, há uma banquinha com peixes recém-pescados.\"
+}
+
+**Cena 2**
+{
+\"name\": \"Lala e o Tecido Roxo\",
+\"description\": \"Lala se encanta com um tecido roxo em uma loja luxuosa.\",
+\"start\": \"Lala torce o nariz e desvia em direção a uma das lojas mais luxuosas do local, com portas de vidro adornadas e pintadas à mão.\",
+\"end\": \"Ghork avista as barraquinhas.\"
+}
+
+**Cena 3**
+{
+\"name\": \"Comida no Mercado\",
+\"description\": \"Ghork e Dam encontram comida em uma barraca.\",
+\"start\": \"— Ali!— ele diz.\",
+\"end\": \"A troll resmunga o preço ao apontar cada uma das opções.\"
+}
+
+**Cena 4**
+{
+\"name\": \"Passeio pela Cidade\",
+\"description\": \"O trio caminha pela cidade, observando as lojas e os habitantes de Daratrine.\",
+\"start\": \"O trio termina de pagar e segue caminhando.\",
+\"end\": \"De onde estavam podiam ver o prédio do orfanato.\"
+}
+
+**Cena 5**
+{
+\"name\": \"Dam se Despede\",
+\"description\": \"Dam se sente aliviado ao pensar que está prestes a sair do meio da multidão.\",
+\"start\": \"— Estou indo embora, pessoal. Esse barulho está me deixando irritado.\",
+\"end\": \"Ghork ri enquanto observa o amigo desaparecer por entre as grandes portas de madeira, pintadas de um azul-claro acolhedor.\"
+}
+
+**Cena 6**
+{
+\"name\": \"A Fonte\",
+\"description\": \"Lala e Ghork encontram a Fonte, ponto de referência para aqueles que visitam Daratrine.\",
+\"start\": \"A Fonte hoje está sendo limpa por uma equipe de goblins, que recolhe uma quantidade absurda de drakeis de seu fundo.\",
+\"end\": \"— Não se preocupe! Eu vou bolar um plano — Lala diz.\"
+}
+
+**Cena 7**
+{
+\"name\": \"Plano para o Futuro\",
+\"description\": \"Lala e Ghork se direcionam para a parte mais desenvolvida da cidade, onde os estabelecimentos recebem mercadorias das cidades vizinhas de Daratrine.\",
+\"start\": \"Ghork não consegue deixar de sorrir, a ingenuidade da Lala é quase motivadora.\",
+\"end\": \"Eles se direcionam para a parte mais desenvolvida da cidade...\"
+}"
