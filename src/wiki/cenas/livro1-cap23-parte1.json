@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ghork volta para casa",
+    "description": "Ghork retorna para casa e pensa em como contará a notícia ao seu pai.",
+    "start": "Ghork faz o caminho para casa da forma mais lenta possível, pensando em como contará a notícia ao seu pai.",
+    "end": "Ao chegar, ele abre com delicadeza a única porta de sua residência, para não alertar ninguém da sua presença."
+  },
+  {
+    "name": "Encontro com Banla",
+    "description": "Ghork encontra sua madrinha Banla, que o abraça e pergunta sobre sua primeira missão na Horda.",
+    "start": "— Minha formosura! — A voz estridente é acompanhada de uma sombra que vai na direção do Ghork.",
+    "end": "— Conte-me tudo! Já te deram a sua primeira missão na Horda? Como é lá dentro? — Ela pergunta eufórica, sem perceber o desconforto do afilhado."
+  },
+  {
+    "name": "Encontro com a mãe",
+    "description": "Ghork vê sua mãe, que se aproxima para ver a perna ferida do filho.",
+    "start": "Ao ser colocado com delicadeza de volta no chão, Ghork vê sua mãe.",
+    "end": "— Ela estava me fazendo companhia… — diz a voz doce da sua mãe, cheia de preocupação enquanto se aproxima para ver a perna do filho."
+  },
+  {
+    "name": "Conversa com a família",
+    "description": "Ghork conversa com sua mãe e Banla sobre sua experiência na Horda.",
+    "start": "— Claramente não! Quebraram ele! — Banla aponta para a perna ferida de Ghork.",
+    "end": "— Nã-nã-nã-não, só quando estivermos sentados. Sua mãe preparou um banquete para você! Essa notícia é digna de ser contada com a barriga cheia!"
+  },
+  {
+    "name": "Preparação do banquete",
+    "description": "Banla apresenta o banquete preparado pela mãe de Ghork.",
+    "start": "— Olha, fizemos o seu favorito! — Banla aponta para a travessa com tubérculos alados, preparados com uma espessa camada de manteiga e carne de panela.",
+    "end": "— Espero que goste, filho — diz sua mãe, ao se sentar."
+  }
+]

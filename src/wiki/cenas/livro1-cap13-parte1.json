@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Cena 1 - Entrada na sala do teste",
+    "description": "Os candidatos seguem Yavo até a sala do teste, onde encontram um soldado orc vigiando-os.",
+    "start": "Os candidatos seguem Yavo até a sala do teste.",
+    "end": "Ele é um orc também."
+  },
+  {
+    "name": "Cena 2 - Ghork se preocupa com o desempenho de Drull",
+    "description": "Ghork se preocupa com o desempenho de Drull e tenta ajudá-lo.",
+    "start": "A única coisa que incomoda Ghork é a grossura dos pergaminhos em cima da mesa de Yavo.",
+    "end": "— Ei, Drull, senta perto de mim. Eu te ajudo."
+  },
+  {
+    "name": "Cena 3 - Preparação para a prova",
+    "description": "Os candidatos se preparam para a prova, escolhendo seus lugares e notando as mesas equipadas com pena e tinteiro.",
+    "start": "— Sentem-se, por favor! — interrompe o Professor Yavo, apressando-os.",
+    "end": "Ghork revira os olhos e balança a cabeça."
+  },
+  {
+    "name": "Cena 4 - Anúncio da prova",
+    "description": "Yavo anuncia o início da prova e explica as regras.",
+    "start": "— Sentem-se em seus lugares e foco! A prova já vai começar.",
+    "end": "Há olhos nos quatro cantos da sala, então nem pensem em trapacear, pois quem for pego será desclassificado imediatamente."
+  },
+  {
+    "name": "Cena 5 - Entrada da elfa Banxir",
+    "description": "Uma elfa alta e de corpo esquelético entra na sala, causando admiração e apreensão.",
+    "start": "De repente, Yavo ergue a cabeça e olha para a porta de entrada, que está aberta.",
+    "end": "Os guardas na sala se levantam e assumem posição de sentido, mostrando respeito e reverência à elfa."
+  },
+  {
+    "name": "Cena 6 - Apresentação da elfa Banxir",
+    "description": "Yavo apresenta a elfa Banxir aos candidatos, revelando sua importância na história da Horda.",
+    "start": "— Sintam-se honrados! Vocês estão testemunhando parte da história da Horda.",
+    "end": "A inspetora Banxir está entre os magos mais antigos de Cetra."
+  },
+  {
+    "name": "Cena 7 - Início da distribuição das provas",
+    "description": "A elfa Banxir se vira para os candidatos e anuncia o início da distribuição das provas.",
+    "start": "A elfa agradece a Yavo pela apresentação e se vira para os candidatos, com a voz serena:",
+    "end": "Eu já vou iniciar a distribuição das provas."
+  }
+]

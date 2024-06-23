@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Orc observa a cena",
+        "description": "O orc observa a cena de perto e vê o cabo da adaga inútil.",
+        "start": "O orc, que observava a cena de perto, olha para mão do Ghork e vê o cabo da adaga, agora inútil.",
+        "end": "Ele sacode a cabeça em negativa:"
+    },
+    {
+        "name": "Eraste foge",
+        "description": "Eraste se vira e corre para saída da caverna.",
+        "start": "— Tem mais vindo, vocês já estão condenados. Eu vou é vazar daqui.",
+        "end": "Ele se vira e corre para saída da caverna."
+    },
+    {
+        "name": "Ghork reage",
+        "description": "Ghork olha para o lado e vê um rastro de terra se levantando e vindo em sua direção.",
+        "start": "O desespero que os passos de Eraste causam em Ghork só termina quando Orcquius o traz de volta para a realidade.",
+        "end": "Ele se vira no ar e cai de costas no chão. O ovo intacto, apoiado em sua barriga."
+    },
+    {
+        "name": "Qeg reage",
+        "description": "Qeg pergunta sobre seu chapéu e logo enfrenta o misthil.",
+        "start": "— O que está acontecendo aqui? Onde foi parar meu chapéu?",
+        "end": "Ele escuta o barulho da pata do misthil batendo contra a parede."
+    },
+    {
+        "name": "Orcquius salva Qeg",
+        "description": "Orcquius segura a pata do misthil e a cabeça do bicho.",
+        "start": "Ele volta os olhos para Qeg, a cena que vê o surpreende.",
+        "end": "Orcquius está à frente do troll, segurando com uma mão a pata do misthil contra a parede e a outra segurando uma de suas presas, empurrando com força a cabeça do bicho para cima."
+    },
+    {
+        "name": "Eraste monta o misthil",
+        "description": "Eraste está montado no misthil e ataca.",
+        "start": "Enquanto isso, Ghork escuta um sibilar de inseto vindo da direção de Eraste.",
+        "end": "Ele desfere um golpe de cima para baixo, enterrando a espada nas costas do misthil, e o perfura até o tórax."
+    },
+    {
+        "name": "Ghork se levanta",
+        "description": "Ghork se levanta determinado após ouvir a voz de seu pai.",
+        "start": "Mexa-se, Ghork! Levante-se daí!",
+        "end": "Ele procura ao redor por algo que pudesse auxiliar o general."
+    },
+    {
+        "name": "Ghork ajuda Orcquius",
+        "description": "Ghork encontra a lança de Qeg e a atira para Orcquius.",
+        "start": "— General! Aqui!",
+        "end": "Com uma nova arma em seus pés, Orcquius toma um impulso e arremessa o misthil alguns metros à frente."
+    },
+    {
+        "name": "Orcquius derrota o misthil",
+        "description": "Orcquius acerta uma estocada certeira dentro da boca do inseto.",
+        "start": "Sem tirar seus olhos do inseto, Orcquius se abaixa, agarra o cabo da lança e, usando o impulso de sua subida, acerta uma estocada certeira dentro da boca do inseto.",
+        "end": "acerta uma estocada certeira dentro da boca do inseto."
+    }
+]

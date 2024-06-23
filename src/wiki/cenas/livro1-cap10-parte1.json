@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Introdução à Horda Consagrada",
+        "description": "Descrição da Horda Consagrada e sua importância em Daratrine",
+        "start": "Na última invasão dos ignotos, somente alguns membros do exército foram capazes de encarar as criaturas e escapar ilesos.",
+        "end": "Toda a estrutura projeta sombras sobre a rua, emanando uma aura gélida e impondo silêncio aos que passam por ali."
+    },
+    {
+        "name": "Dia de Prova de Fogo",
+        "description": "Descrição do clima de ansiedade e expectativa no dia da Prova de Fogo",
+        "start": "Mas, neste dia, tudo está diferente.",
+        "end": "Este é um momento decisivo na vida deles."
+    },
+    {
+        "name": "Lala foge dos guardas",
+        "description": "Lala corre para escapar dos guardas que a perseguem",
+        "start": "Enquanto isso, dentro do Complexo, Lala continua correndo o mais rápido que pode...",
+        "end": "E, atrás dela, o ruído constante da perseguição."
+    },
+    {
+        "name": "Lala encurralada",
+        "description": "Lala se vê encurralada e precisa encontrar uma saída",
+        "start": "Quando se dá conta, Lala está diante de um beco sem saída.",
+        "end": "Sabendo que não há nada que possa utilizar para alcançar a janela, ela cogita abrir uma das portas em busca de objetos."
+    },
+    {
+        "name": "Lala usa sua runa mágica",
+        "description": "Lala decide usar sua runa mágica para se tornar invisível",
+        "start": "É agora ou nunca! Lala enfia a mão na algibeira e retira sua runa mágica.",
+        "end": "Ela eleva as mãos à altura dos olhos e ainda consegue vê-las. O desespero toma conta dela."
+    },
+    {
+        "name": "Lala enfrenta os guardas",
+        "description": "Lala se esconde quando os guardas chegam ao corredor",
+        "start": "Quando está prestes a tentar novamente, o guarda mais próximo para.",
+        "end": "— Então não fique aí parado! Vamos dar a volta e ver onde essa janela sai."
+    },
+    {
+        "name": "Lala explora o local",
+        "description": "Lala decide explorar o local após escapar dos guardas",
+        "start": "Recuperando-se do susto, ela decide explorar o local.",
+        "end": "Mesmo se sentindo um pouco zonza, mantém-se focada em sua busca."
+    }
+]

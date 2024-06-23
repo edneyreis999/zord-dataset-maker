@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ghork ouve o grito de socorro",
+        "description": "Ghork escuta um grito de socorro desesperado vindo da direção do Eraste.",
+        "start": "Nessa hora, Ghork escuta um grito de socorro desesperado vindo da direção do Eraste.",
+        "end": "— General! O Eraste! — Ghork o alerta."
+    },
+    {
+        "name": "Ghork ajuda Eraste",
+        "description": "Ghork decide ajudar Eraste sem uma arma, usando a pata arrancada do misthil.",
+        "start": "Não vai dar tempo de ele ir até lá. Eu mesmo preciso ajudá-lo. Mas como, sem arma?",
+        "end": "Ghork não estava preparado para o impacto da pata do misthil furando o inseto e nem para todos os sons nojentos de coisas quebrando e rasgando dentro da criatura."
+    },
+    {
+        "name": "O misthil ataca Ghork",
+        "description": "O misthil se vira enfurecida e ataca Ghork.",
+        "start": "O efeito é instantâneo. O ataque contra Eraste cessa e a criatura se vira enfurecida.",
+        "end": "A afiada pata do misthil é como o golpe de uma lâmina, cortando, profundamente, a perna de Ghork."
+    },
+    {
+        "name": "Ghork está ferido",
+        "description": "Ghork está ferido e tenta se desvencilhar do inseto.",
+        "start": "A dor é intensa e excruciante, como se uma fornalha estivesse queimando sua carne.",
+        "end": "Ele pode sentir o sangue escorrendo pelo ferimento, misturado com o suor e o medo."
+    },
+    {
+        "name": "O misthil ataca Eraste",
+        "description": "O misthil percebe que Ghork não é mais uma ameaça e ataca Eraste.",
+        "start": "O misthil percebe que Ghork já não representa mais uma ameaça.",
+        "end": "Um grito de alerta fica preso em sua garganta enquanto ele assiste, impotente, a criatura com as patas erguidas, preparando-se para dar o golpe final no seu rival."
+    },
+    {
+        "name": "A intervenção de Orcquius",
+        "description": "Orcquius intervém e salva Eraste com uma lança.",
+        "start": "Um silvo corta o ar.",
+        "end": "Com a visão turva, Ghork se deita no chão da caverna, sentindo a dor intensa em seu corpo."
+    }
+]

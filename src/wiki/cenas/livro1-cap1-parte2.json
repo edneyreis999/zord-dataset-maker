@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Rheed prepara a história",
+    "description": "Rheed coça a barba e pensa sobre as crianças orcs que desejam uma carreira militar.",
+    "start": "Enquanto as crianças gritam seus grandes sonhos, Rheed coça a barba e pensa:",
+    "end": "Ele sorri, pois sabe que a história que vai contar tocará todos de alguma forma."
+  },
+  {
+    "name": "Rheed bebe a poção",
+    "description": "Rheed bebe uma segunda poção escondida no bolso e sua barba brilha em um tom azulado.",
+    "start": "Então ele pega uma segunda poção escondida no bolso e bebe, fazendo com que sua barba brilhe em um tom azulado.",
+    "end": "Enche o peito e dá um sopro para o alto."
+  },
+  {
+    "name": "A fumaça se solidifica",
+    "description": "Uma lufada de ar colorido sai de sua boca tomando forma e cobre toda a área do palco.",
+    "start": "Uma lufada de ar colorido sai de sua boca tomando forma.",
+    "end": "As crianças ficam maravilhadas e empolgadas com a fumaça que começa a se solidificar como uma cúpula."
+  },
+  {
+    "name": "O pátio surge",
+    "description": "Um pátio começa a surgir aos poucos e a névoa se entrelaça como em um tecido.",
+    "start": "Um pátio começa a surgir aos poucos e a névoa se entrelaça como em um tecido que gradualmente costura uma nova realidade.",
+    "end": "Quando a neblina começa a se dissipar, todos estão em um lugar que parece a escola da cidade, mas com um toque estranho."
+  },
+  {
+    "name": "As crianças reagem",
+    "description": "As crianças e adultos reagem à nova realidade.",
+    "start": "Os adultos adoram a empolgação das crianças e, apesar de também estarem curiosos, deixam por conta delas as perguntas e comentários.",
+    "end": "— Olha! — Puk, aos berros, aponta para uma silhueta que surge correndo na direção deles."
+  },
+  {
+    "name": "O orc fantasma",
+    "description": "Um orc com longas tranças surge correndo em direção às crianças.",
+    "start": "— Olha! — Puk, aos berros, aponta para uma silhueta que surge correndo na direção deles.",
+    "end": "O orc enfim os alcança e passa por eles sem os tocar, como se fosse uma miragem."
+  },
+  {
+    "name": "Rheed explica",
+    "description": "Rheed explica o que está acontecendo.",
+    "start": "— E aí, galera, divertindo-se? — A voz de Rheed sai de algum lugar no meio da névoa.",
+    "end": "Alquimia! Ela é capaz até mesmo de armazenar e, quando necessário, tornar visíveis as memórias de alguém!"
+  },
+  {
+    "name": "O goblin interrompe",
+    "description": "O goblin Slug interrompe Rheed.",
+    "start": "— Uau, uma poção mnésica? Meu pai já me falou do poder dela. Que demais!",
+    "end": "— É isso mesmo, pequenino. E agora, sem mais interrupções, voltemos para a nossa história! — Rheed dá um passo para trás e mergulha novamente na névoa densa."
+  },
+  {
+    "name": "A cena volta à normalidade",
+    "description": "A cena volta a ter nitidez e a ação recomeça na sala de aula.",
+    "start": "— É isso mesmo, pequenino. E agora, sem mais interrupções, voltemos para a nossa história! — Rheed dá um passo para trás e mergulha novamente na névoa densa.",
+    "end": "A cena volta a ter nitidez e a ação recomeça na sala de aula."
+  }
+]

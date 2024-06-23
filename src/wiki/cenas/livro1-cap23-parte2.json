@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ghork começa a jantar",
+    "description": "Ghork começa a comer, sentindo um aroma familiar e confortável.",
+    "start": "Ghork dá uma garfada na comida, cujo aroma enche suas narinas, trazendo um aconchego familiar.",
+    "end": "Mas ele continua tentando comer para ganhar tempo e organizar os pensamentos."
+  },
+  {
+    "name": "Shad pergunta sobre o jantar",
+    "description": "Shad nota que Ghork está quieto e pergunta se ele não gostou da comida.",
+    "start": "— Você está muito quieto, Ghork. Não gostou da comida? — perguntou Shad, com um sorriso carinhoso no rosto.",
+    "end": "— Não, mãe, está tudo ótimo. É que eu... —"
+  },
+  {
+    "name": "Banla interrompe",
+    "description": "Banla interrompe Ghork e começa a falar sobre sua vitória na Prova de Fogo.",
+    "start": "— Ah, Ghork, não seja modesto! Você sabe que é o orgulho da família, não sabe?",
+    "end": "— Você ficou com a boca toda queimada, mas não soltou os bolinhos nem por um segundo! — Banla complementa."
+  },
+  {
+    "name": "Ghork explode",
+    "description": "Ghork não aguenta mais e conta para as mães sobre sua reprovação.",
+    "start": "— Eu fui reprovado! Sou uma decepção para vocês. — Ele explodiu, deixando cair o garfo no prato.",
+    "end": "Shad e Banla ficaram em silêncio por alguns segundos, sem acreditar no que ouviram."
+  },
+  {
+    "name": "As mães reagem",
+    "description": "Shad e Banla se levantam e abraçam Ghork, tentando consolá-lo.",
+    "start": "Depois, elas se levantaram e abraçaram Ghork com força.",
+    "end": "— Meu filho, você jamais nos decepcionaria. Nós te amamos do jeito que você é — disse Shad, beijando sua testa."
+  },
+  {
+    "name": "Ghork decide contar a verdade",
+    "description": "Ghork decide contar a verdade para o pai, apesar das sugestões de mentir.",
+    "start": "— Não! — disse Ghork, interrompendo-as. — Eu não posso mentir para o meu pai.",
+    "end": "— É hora de ir, preciso chegar lá antes do anoitecer, antes que ele fique muito bêbado para receber a notícia."
+  }
+]

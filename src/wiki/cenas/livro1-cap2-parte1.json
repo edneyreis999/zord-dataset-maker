@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cena 1: A Miragem",
+    "description": "Descrição da miragem onde se encontram as criaturas",
+    "start": "A maioria das criaturas na miragem é de orcs, acompanhados de trolls e alguns poucos ogros.",
+    "end": "Por meio das janelas ao fundo, é possível observar o topo da torre onde as bandeiras da Horda Consagrada tremulam."
+  },
+  {
+    "name": "Cena 2: Aula Iniciada",
+    "description": "A aula começa e os alunos se preparam para ouvir a instrução",
+    "start": "Quando o sinal anuncia o início da aula, as criaturas se calam.",
+    "end": "Polona começa a falar sobre a Prova de Fogo."
+  },
+  {
+    "name": "Cena 3: Eraste se Encrenca",
+    "description": "Eraste tenta explicar as etapas da Prova de Fogo, mas falha",
+    "start": "Polona suspira.",
+    "end": "Eraste se sente encurralado, sem saber como agir."
+  },
+  {
+    "name": "Cena 4: Ghork Explica",
+    "description": "Ghork explica as etapas da Prova de Fogo corretamente",
+    "start": "Ele se levanta e responde:",
+    "end": "— Ghork sorri, dividido entre alívio e orgulho."
+  },
+  {
+    "name": "Cena 5: Reação dos Alunos",
+    "description": "Os alunos reagem à explicação de Ghork e à fala da Polona",
+    "start": "Eraste encara Ghork com um olhar tão vingativo que o pobre orc sente um arrepio percorrer a espinha, como se uma avalanche de medo estivesse prestes a desabar sobre si.",
+    "end": "Ouve-se um alvoroço na sala."
+  },
+  {
+    "name": "Cena 6: Fim da Aula",
+    "description": "A aula termina e os alunos se preparam para sair",
+    "start": "Quando o sinal anuncia o fim da aula, Drull, que ainda lutava contra sua algibeira, levanta rapidamente a cabeça, com os olhos arregalados e um sorriso no rosto, e exclama:",
+    "end": "Ghork não escuta o sinal e muito menos o amigo."
+  },
+  {
+    "name": "Cena 7: Reflexão de Ghork",
+    "description": "Ghork reflete sobre a fala da Polona e sua chance de vencer a Prova de Fogo",
+    "start": "Eu consegui! Finalmente consegui!",
+    "end": "Estou prestes a me tornar uma lenda!"
+  },
+  {
+    "name": "Cena 8: Realidade",
+    "description": "Ghork volta à realidade e se encontra sozinho com Eraste na sala",
+    "start": "Mas uma voz o traz de novo à realidade.",
+    "end": "Ghork volta a sentir um arrepio e percebe que apenas Eraste e ele ainda estão na sala."
+  }
+]

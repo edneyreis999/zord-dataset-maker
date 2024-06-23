@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Ghork vê Qeg e Eraste",
+    "description": "Ghork observa Qeg e Eraste tentando derrotar o inseto",
+    "start": "Ghork vê Qeg e Eraste ainda tentando derrotar o inseto.",
+    "end": "E, então, fecha os olhos."
+  },
+  {
+    "name": "A luz forte",
+    "description": "Uma luz forte toma a caverna e Ghork fecha os olhos",
+    "start": "E, então, fecha os olhos.",
+    "end": "Mesmo por detrás de suas pálpebras percebe a forte luz que toma a caverna."
+  },
+  {
+    "name": "Orcquius empurra o inseto",
+    "description": "Orcquius aproveita o momento para empurrar o inseto longe",
+    "start": "Quando o feixe cessa e Ghork retoma a visão, os elfos já estão longe.",
+    "end": "— Saiam já daqui."
+  },
+  {
+    "name": "Eraste e Qeg se recuperam",
+    "description": "Eraste e Qeg se recuperam do choque da luz forte",
+    "start": "— O que foi essa luz? Não enxergo nada! — exclama Eraste, esfregando o rosto com a palma da mão.",
+    "end": "— Onde está o inseto? — pergunta Qeg, sacudindo a cabeça, atordoado."
+  },
+  {
+    "name": "Orcquius repreende",
+    "description": "Orcquius repreende Eraste e Qeg por perder tempo",
+    "start": "— Não temos tempo para ficar resmungando. Tem mais deles vindo! — repreende Orcquius.",
+    "end": "Na escuridão da caverna, com as tochas tombadas, Ghork avista mais dois pares de olhos vermelhos correndo em direção a Qeg, Orcquius e Eraste."
+  },
+  {
+    "name": "O misthil ataca",
+    "description": "O misthil enfurecido ataca Qeg",
+    "start": "Após se recuperar do empurrão, o misthil que estava mais à frente avança cegamente.",
+    "end": "O corpo de Qeg bate com violência contra a parede da caverna, produzindo um som que deixa clara a gravidade do impacto."
+  },
+  {
+    "name": "Ghork reage",
+    "description": "Ghork tenta correr em socorro, mas fica paralisado diante da cena",
+    "start": "Em uma descarga de adrenalina, Ghork faz menção de correr em socorro.",
+    "end": "Mas é incapaz de dar outro passo, pois fica paralisado diante da cena que vê em sua frente."
+  },
+  {
+    "name": "Eraste ataca o misthil",
+    "description": "Eraste ataca o misthil com sua espada",
+    "start": "Eraste se aproxima do misthil e desce sua espada com força na pata frontal do inseto, decepando-a.",
+    "end": "O sangue viscoso do inseto é jorrado na parede, tingindo-a com uma cor arroxeada."
+  },
+  {
+    "name": "O misthil reage",
+    "description": "O misthil reage ao ataque de Eraste",
+    "start": "O misthil reage emitindo um som metálico e assustador.",
+    "end": "Furioso, ele investe com determinação contra Eraste."
+  },
+  {
+    "name": "Ghork analisa a situação",
+    "description": "Ghork analisa a posição de Eraste e percebe o perigo que ele corre",
+    "start": "De onde está, Ghork analisa a posição do Eraste e percebe o quanto os dois outros misthis estão perto dele.",
+    "end": "Assim ele vai ser alvo fácil. Eu preciso fazer alguma coisa. Pensa Ghork."
+  },
+  {
+    "name": "Ghork ataca",
+    "description": "Ghork ataca o misthil caído com sua adaga",
+    "start": "Ele retira sua adaga do embornal e dispara em direção ao inseto caído.",
+    "end": "E tudo que resta em suas mãos é a empunhadura. Ghork olha para Eraste com uma súplica silenciosa."
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Organização dos Recrutas",
+        "description": "O soldado elfo organiza os recrutas em filas e Cyrus explica como vai escolher líderes para cada grupo.",
+        "start": "O soldado elfo seguindo as ordens de seu coronel, sobe no palanque e começa a organizar os recrutas em filas.",
+        "end": "Quando, finalmente, as filas estão organizadas, o soldado dá um passo para trás, abrindo espaço para Cyrus."
+    },
+    {
+        "name": "Escolha do Líder Orc",
+        "description": "Cyrus escolhe um orc como líder de seu grupo e ele tira a ficha com o ingrediente Alga-do-Norte.",
+        "start": "Aponta para um orc e o chama para ser o líder do grupo.",
+        "end": "Ele retorna para a fila junto ao seu time."
+    },
+    {
+        "name": "Conversa entre Ghork e o Líder Elf",
+        "description": "Ghork é silenciado por uma sentinela enquanto tenta responder à pergunta do líder elf sobre como sabe sobre a Alga-do-Norte.",
+        "start": "Ghork ia responder, quando uma das sentinelas, que observava o grupo, silencia-o e ordena para ele que olhe o sorteio.",
+        "end": "O líder do segundo grupo tira o próximo ingrediente: orelhas de lebre-dente-de-sabre selvagem."
+    },
+    {
+        "name": "Escolha de Ghork",
+        "description": "Cyrus escolhe Ghork como líder do último grupo e ele se sente emocionado.",
+        "start": "— Eu mesmo vou acompanhar o último grupo — diz Cyrus. — Então ele olha e aponta para a direção de Ghork.",
+        "end": "Ghork puxa o ar e prende a respiração, seus sentidos aguçados."
+    },
+    {
+        "name": "Interrupção por Eraste",
+        "description": "Eraste interrompe Ghork antes que ele possa pegar a ficha com o ingrediente.",
+        "start": "No entanto, antes que possa concluir sua jornada, uma mão repousa em seu ombro, interrompendo-o abruptamente.",
+        "end": "Eraste está atrás dele, ostentando um sorriso de deboche."
+    },
+    {
+        "name": "Eraste Tira o Ingrediente",
+        "description": "Eraste tira a ficha com o ingrediente Ovo de Misthil e Ghork se sente decepcionado.",
+        "start": "Eraste puxa a última placa:",
+        "end": "Os olhos de Ghork se arregalam, e ele vira a cabeça rapidamente para observar a reação dos outros membros do grupo."
+    },
+    {
+        "name": "Confronto entre Ghork e Eraste",
+        "description": "Ghork questiona se Eraste leu errado o ingrediente e eles têm um confronto.",
+        "start": "— Vo-você não leu isso errado, Eraste?",
+        "end": "O orc pega a ficha no chão e, para seu desespero, Eraste, de fato, sabe ler."
+    }
+]

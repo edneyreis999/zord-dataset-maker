@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ghork espera na boca da caverna",
+    "description": "Ghork aguarda a ordem para adentrar a boca da caverna, iluminando as paredes escuras com sua tocha.",
+    "start": "O óleo da tocha pinga nos dedos de Ghork enquanto ele aguarda a ordem para adentrar a boca da caverna.",
+    "end": "— Entrem — diz o general, com a voz controlada."
+  },
+  {
+    "name": "Entrada na caverna",
+    "description": "O grupo entra na caverna, liderado por Orcquius, e Ghork sente seu coração acelerar ao ver as paredes escuras.",
+    "start": "— Entrem — diz o general, com a voz controlada.",
+    "end": "Ghork sente seu coração acelerar a cada curva, perguntando-se o que eles encontrarão adiante."
+  },
+  {
+    "name": "Adran tenta acalmar Ghork",
+    "description": "Adran percebe a preocupação de Ghork e tenta acalmá-lo.",
+    "start": "Ghork sente seu coração acelerar a cada curva, perguntando-se o que eles encontrarão adiante.",
+    "end": "Peren concorda, acenando com a cabeça."
+  },
+  {
+    "name": "O general fala sobre os misthis",
+    "description": "O general compartilha sua opinião sobre as ilustrações dos misthis nos livros.",
+    "start": "Após um longo período de silêncio em que tudo que Ghork pensava era: caminhar, caminhar, caminhar, ele escuta a voz do general, vinda da vanguarda:",
+    "end": "— Acontece que desenhistas são péssimos aventureiros, então ou correram ou morreram."
+  },
+  {
+    "name": "Descoberta do mithril",
+    "description": "O grupo descobre o metal precioso mithril nas paredes da caverna.",
+    "start": "Os corredores escuros e estreitos da caverna vão sendo, aos poucos, revestidos de tons verdes que se mesclam com a cor escura das paredes.",
+    "end": "— Continuem andando, vou inspecionar a retaguarda para não sermos pegos de surpresa pelos misthis. — diz Orcquius."
+  },
+  {
+    "name": "Peren se emociona com o mithril",
+    "description": "Peren se emociona ao ver as pedras preciosas reluzentes que revestem a caverna.",
+    "start": "Os olhos de Peren brilham com ansiedade enquanto ele admira as pedras preciosas reluzentes que revestem a caverna, coberta de mithril.",
+    "end": "Adran o empurra para o lado, tentando ter uma visão melhor."
+  },
+  {
+    "name": "Ghork se junta ao grupo",
+    "description": "Ghork se junta aos seus amigos e completa a frase sobre o que eles realmente querem.",
+    "start": "Ghork se junta a eles e completa:",
+    "end": "— Na verdade, o que realmente queremos é nos tornar soldados."
+  },
+  {
+    "name": "Orcquius ordena ao grupo",
+    "description": "Orcquius ordena ao grupo para ficarem perto dele e não tocarem em nada até ele mandar.",
+    "start": "Mas sua distração é interrompida pelo som da voz de Orcquius, que se aproxima dele.",
+    "end": "— Perto de mim. Se ficarem para trás, estarão por conta própria. E não toquem em nada até eu mandar — ordena, fixando seus olhos em Ghork."
+  },
+  {
+    "name": "Descoberta surpreendente",
+    "description": "Eraste descobre algo que os deixa paralisados.",
+    "start": "Ghork se apressa para se juntar ao grupo. Ele só para quando vê Eraste agachado com a mão estendida, iluminando algo que os deixa paralisados.",
+    "end": "(fim do capítulo)"
+  }
+]

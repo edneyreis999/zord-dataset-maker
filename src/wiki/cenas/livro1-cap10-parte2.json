@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Lala se esforça para manter a lucidez",
+    "description": "Lala observa os guardas preparando salas para a prova e percebe que eles estão concentrados no andar, não havendo ninguém subindo para o andar de cima.",
+    "start": "Lala se esforça para manter a lucidez.",
+    "end": "Procurar a sala do tenente Alabyran seria mais tranquilo do que ela imaginava."
+  },
+  {
+    "name": "Encontro com o goblin e o sáparo",
+    "description": "Lala encontra um goblin rebolante assoviando e um sáparo-boca-de-corneta cantando no corredor.",
+    "start": "Quando chega à junção dos dois corredores, depara-se com um goblin rebolante assoviando e um sáparo-boca-de-corneta cantando.",
+    "end": "O sáparo altera a tonalidade de seu canto, tornando-o agudo e urgente."
+  },
+  {
+    "name": "Lala tenta se aproximar da escada",
+    "description": "Lala tira suas sandálias e tenta se aproximar da escada, mas tropeça no chão escorregadio.",
+    "start": "Com mais confiança, Lala acelera o passo, mas o chão escorregadio a faz tropeçar.",
+    "end": "O goblin se assusta, pega o esfregão como se fosse uma arma e começa a girar para todos os lados, tentando achar quem fez o barulho."
+  },
+  {
+    "name": "Lala alcança as escadas",
+    "description": "Lala segura o riso e aproveita a confusão para chegar até as escadas que levam ao terceiro andar.",
+    "start": "Apesar da fala firme, Lala é capaz de perceber as pernas do goblin tremendo de medo.",
+    "end": "Ela sente o tempo se arrastar, como se estivesse presa em um pesadelo interminável."
+  },
+  {
+    "name": "Lala alcança a dispensa",
+    "description": "Lala alcança o topo das escadas e encontra uma porta de uma dispensa entreaberta.",
+    "start": "Com um esforço descomunal, Lala alcança o topo das escadas, sentindo-se à beira do colapso.",
+    "end": "Sem hesitar, ela se aproxima e empurra a porta para passar e esse movimento resulta em uma vassoura caindo."
+  },
+  {
+    "name": "Lala se esconde na dispensa",
+    "description": "Lala utiliza suas últimas forças para posicionar vassouras e esfregões travando a porta.",
+    "start": "O mal-estar toma conta de Lala de forma avassaladora.",
+    "end": "Os cantos de sua visão escurecem lentamente e Lala só tem tempo de mirar sua queda."
+  }
+]

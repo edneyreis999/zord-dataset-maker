@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Descoberta do ninho",
+        "description": "Ghork e Adran descobrem um ninho imenso de ovos de misthis.",
+        "start": "Um ninho imenso está diante deles, feito de carapaças e cascas descartadas.",
+        "end": "A luz esverdeada reflete na casca translúcida, permitindo que eles possam ver uma forma se mexendo dentro."
+    },
+    {
+        "name": "Orcquius instrui os recrutas",
+        "description": "Orcquius explica como escolher os ovos certos.",
+        "start": "Finalmente, ele volta sua atenção para os recrutas e diz:",
+        "end": "— Façam silêncio, para o caso de haver algum guardião perto, e peguem os ovos menos translúcidos, eles são mais jovens e deixam a sopa mais saborosa."
+    },
+    {
+        "name": "Procura por ovos",
+        "description": "Os recrutas começam a procurar ovos que se adequem à tarefa.",
+        "start": "O grupo avança com cuidado.",
+        "end": "Ghork e seus amigos elfos se aproximam do ninho."
+    },
+    {
+        "name": "Eraste encontra um ovo",
+        "description": "Eraste é o primeiro a encontrar um ovo.",
+        "start": "Eraste é o primeiro a encontrar um ovo, o qual pega com uma expressão triunfante e leva até o general que acena em concordância com a cabeça.",
+        "end": "Logo Qeg, mais cauteloso, escolhe um que está ao canto, sem outros ovos ao redor."
+    },
+    {
+        "name": "Ghork encontra um ovo",
+        "description": "Ghork encontra um ovo menor e firme.",
+        "start": "Enquanto isso, Ghork encontra um ovo menor, de aparência muito firme, perfeito para a tarefa.",
+        "end": "— É difícil ver o contorno do inseto na luz, o que quer dizer que está no ponto perfeito, bem como Orcquius pediu."
+    },
+    {
+        "name": "Adran pega um ovo errado",
+        "description": "Adran pega um ovo grande e gelatinoso.",
+        "start": "— Ele pediu transparente! Não grande! — diz Adran.",
+        "end": "Adran coloca as duas mãos por baixo do ovo enquanto Peren equilibra a parte de cima."
+    },
+    {
+        "name": "Ovo explode",
+        "description": "Adran e Peren perdem o controle do ovo, que explode no chão.",
+        "start": "Eles começam a abaixar devagar.",
+        "end": "Com um estrondo, o ovo de misthil cai no chão, explodindo em mil pedaços."
+    },
+    {
+        "name": "Consequências",
+        "description": "O chão começa a tremer após a explosão do ovo.",
+        "start": "— Ferrou! – os dois dizem em uníssono, com expressões de desespero no rosto, olhando para o ovo destruído aos seus pés.",
+        "end": "O chão começa a tremer."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Montagem do Acampamento",
+        "description": "Orcquius decide montar o acampamento e fazer uma fogueira para passarem a noite.",
+        "start": "Depois de uma longa jornada, Orcquius decide que é o momento de descansar e começar a montar o acampamento.",
+        "end": "Os recrutas observam maravilhados as chamas que ganham vida, mesmo no ar frio da montanha."
+    },
+    {
+        "name": "Conversa ao Redor do Fogo",
+        "description": "Os recrutas se sentam ao redor do fogo e começam a conversar e gargalhar.",
+        "start": "— Ele faz parecer tão fácil! — comenta Peren, ao tirar as botas e esticar os pés para perto do fogo.",
+        "end": "Quando as risadas entre os elfos pausam por um breve momento, Ghork aproveita a oportunidade para sussurrar entre eles:"
+    },
+    {
+        "name": "Convite ao Qeg",
+        "description": "Ghork pergunta se podem chamar o Qeg para sentar com eles.",
+        "start": "— O que acham de a gente chamar aquele troll para sentar aqui também?",
+        "end": "Qeg, que parecia estar apenas aguardando esse convite, levanta-se prontamente da pedra em que estava sentado e busca um lugar mais próximo à fogueira para participar da conversa."
+    },
+    {
+        "name": "A Harpia Chega",
+        "description": "Uma harpia chega ao acampamento com um bilhete preso à pata.",
+        "start": "Todos desviam o olhar para o céu ao ouvirem o grasnado de uma harpia, observando o animal em seu mergulho na direção de Orcquius.",
+        "end": "Após liberar a ave, Orcquius se aproxima um pouco mais do grupo ao redor da fogueira."
+    },
+    {
+        "name": "Eraste é Chamado",
+        "description": "Orcquius ordena que Eraste se aproxime do grupo.",
+        "start": "Ao se posicionar diante das chamas, dirige seu olhar imponente para Eraste, o único recruta que permanece afastado do grupo, e ordena com um tom grave:",
+        "end": "— Venha cá!"
+    },
+    {
+        "name": "Notícias sobre os Batalhões",
+        "description": "Orcquius informa aos recrutas sobre os ataques sofridos pelos batalhões.",
+        "start": "— Dois batalhões enfrentaram ataques de criaturas classificadas como C e B durante a execução do desafio.",
+        "end": "Então arrumem já os sacos de dormir!"
+    },
+    {
+        "name": "Preparativos para a Noite",
+        "description": "Os recrutas se dirigem para organizar os suprimentos do acampamento para a noite.",
+        "start": "Os cinco recrutas se dirigem sem hesitação até onde haviam deixado os suprimentos do acampamento, organizando-se para a noite.",
+        "end": "Enquanto isso, Ghork não consegue deixar de pensar: será que o Drull foi atacado?"
+    }
+]

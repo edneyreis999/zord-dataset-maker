@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ghork se aproxima da Taverna",
+    "description": "Ghork se aproxima da Taverna do Sapo Enrugado, onde seu pai passa os dias e as noites.",
+    "start": "Ghork respirou fundo e se aproximou da Taverna do Sapo Enrugado...",
+    "end": "...um cheiro de suor, cerveja e sangue invadia as narinas de Ghork, fazendo-o sentir náuseas."
+  },
+  {
+    "name": "Ghork entra na taverna",
+    "description": "Ghork entra na taverna e se depara com um cenário de caos e violência.",
+    "start": "Ele empurrou a porta com dificuldade e entrou na taverna...",
+    "end": "...o balcão estava coberto de garrafas, copos e canecos vazios ou transbordando."
+  },
+  {
+    "name": "Ghork hesita",
+    "description": "Ghork hesita por um momento, olhando ao redor com cautela.",
+    "start": "Ghork hesitou por um momento, olhando ao redor com cautela.",
+    "end": "...por ser diferente dos outros orcs."
+  },
+  {
+    "name": "Ghork pensa em uma história",
+    "description": "Ghork pensa em uma história para contar a seu pai, justificando o seu fracasso.",
+    "start": "Ghork sentiu um frio na barriga. Pensando bem, talvez eu devesse fazer o que minha madrinha sugeriu.",
+    "end": "...uma história tão boa que o fizesse me perdoar."
+  },
+  {
+    "name": "Grukag interrompe Ghork",
+    "description": "Uma voz rouca e irritada interrompe os pensamentos de Ghork.",
+    "start": "Mas antes que ele pudesse se decidir, uma voz rouca e irritada interrompeu seus pensamentos.",
+    "end": "...Grukag estava com uma garrafa de rum na mão e um olhar de desprezo no rosto."
+  },
+  {
+    "name": "Ghork enfrenta Grukag",
+    "description": "Ghork se vira e vai em direção a Grukag, sabendo que precisa enfrentá-lo e dizer a verdade.",
+    "start": "Ghork se virou e viu o pai sentado, sozinho em uma mesa no canto da taverna.",
+    "end": "...— Precisamos conversar — Ghork diz."
+  }
+]

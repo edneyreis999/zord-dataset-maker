@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Discussão entre Eraste e Ghork",
+        "description": "Eraste se irrita com Ghork e ameaça bater nele.",
+        "start": "— Aí, inútil! A próxima vez que você fizer eu me passar por idiota, esfrego essa tua fuça no chão.",
+        "end": "— Tô nem aí pra sua intenção — retruca Eraste."
+    },
+    {
+        "name": "Ghork tenta fugir",
+        "description": "Ghork tenta escapar de Eraste e encontra três orcs bloqueando a porta.",
+        "start": "Acalme-se, Ghork!, diz para si mesmo enquanto tenta pensar em algo.",
+        "end": "Essa não!, pensa Ghork."
+    },
+    {
+        "name": "Ghork tenta acalmar Eraste",
+        "description": "Ghork tenta acalmar a situação e oferece uma pena mágica para Eraste.",
+        "start": "— Eraste, eu não quero brigar! — Ghork tenta acalmar a situação.",
+        "end": "— É exatamente isso! Você entendeu muito rápido, Eraste. Você é mais inteligente do que eu imaginava!"
+    },
+    {
+        "name": "Ghork explica a origem da pena",
+        "description": "Ghork conta a história de como encontrou a pena mágica.",
+        "start": "— Preparem-se, pois esta será a história mais incrível da vida de vocês! — O pequeno orc diz corrigindo a postura.",
+        "end": "O brilho era tão forte que quase me cegou. Mas, mesmo assim, consegui pegar essa daqui antes de sair correndo da caverna."
+    },
+    {
+        "name": "Eraste e os orcs se impressionam",
+        "description": "Eraste e os outros orcs se impressionam com a história de Ghork e a pena mágica.",
+        "start": "Eraste e seus capangas também encaram a pena e, de repente, seus olhares estão tão fixos que parecem ter sido hipnotizados.",
+        "end": "Sente que seu plano está indo bem e continua falando:"
+    },
+    {
+        "name": "Eraste duvida da história",
+        "description": "Eraste duvida da história de Ghork e pede mais detalhes sobre como ele matou o pássaro.",
+        "start": "— Espera aí. Cê tá dizendo que você, o orc mirrado, deu um soco numa criatura bem maior e mais forte que você?",
+        "end": "Isso não é importante, Eraste. O que importa é que eu matei aquela coisa e agora tô aqui pra contar a história!"
+    },
+    {
+        "name": "Eraste toma a pena",
+        "description": "Eraste toma a pena mágica de Ghork e ameaça bater nele se estiver mentindo.",
+        "start": "— Incrível! — gritam os três orcs.",
+        "end": "Quando Eraste se vira e começa a andar, os outros orcs o seguem. Ghork sorri aliviado."
+    }
+]

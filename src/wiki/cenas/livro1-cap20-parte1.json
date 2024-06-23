@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ghork acorda no acampamento",
+        "description": "Ghork acorda no acampamento improvisado e encontra Eraste dormindo ao seu lado.",
+        "start": "Ghork acorda no acampamento improvisado no meio da floresta.",
+        "end": "A palavra “filho” lhe é estranha, ainda mais num timbre masculino."
+    },
+    {
+        "name": "Orcquius chega com lenha",
+        "description": "Orcquius se aproxima do acampamento com mais lenha em mãos.",
+        "start": "Ghork olha para trás, assegurando-se que não está sonhando.",
+        "end": "— Com as chamas iluminando seu rosto, vira-se para encarar Ghork."
+    },
+    {
+        "name": "Orcquius mostra o ovo de misthil",
+        "description": "Orcquius mostra o ovo de misthil intacto a Ghork.",
+        "start": "— Procurando por isso?",
+        "end": "Ghork fica em descrença, sentindo a emoção subindo pela sua garganta."
+    },
+    {
+        "name": "Ghork se espreguiça",
+        "description": "Ghork se espreguiça e sente a pele ao redor do corte repuxar.",
+        "start": "Por entre as árvores, Adran surge com um grande graveto em suas mãos, gritando empolgado:",
+        "end": "— Qual era o problema?"
+    },
+    {
+        "name": "Adran e Peren explicam o plano",
+        "description": "Adran e Peren explicam como iriam carregar Ghork.",
+        "start": "— Você! — Eles dizem juntos.",
+        "end": "Orcquius toma o graveto da mão do elfo e diz:"
+    },
+    {
+        "name": "Eraste zomba de Ghork",
+        "description": "Eraste zomba de Ghork, chamando-o de fracote.",
+        "start": "Com uma risada de deboche, Eraste olha Ghork de cima a baixo:",
+        "end": "— É, mas eu não dou trabalho para ninguém."
+    },
+    {
+        "name": "O grupo avança em silêncio",
+        "description": "O grupo avança em silêncio entre as árvores uniformes.",
+        "start": "O grupo avança em silêncio entre as árvores uniformes.",
+        "end": "Enquanto isso, o general segue à frente de seus recrutas feridos."
+    },
+    {
+        "name": "Peren e Adran discutem sobre força vital",
+        "description": "Peren e Adran discutem sobre força vital e magia.",
+        "start": "— Você acha que ele percebeu? — diz Peren, arrastando cada vez mais os pés.",
+        "end": "— Ah, então ele não usou. Com certeza — diz Ghork, olhando para o general com admiração."
+    }
+]
